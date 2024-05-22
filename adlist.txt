@@ -66,3 +66,13 @@ data.mistat.xiaomi.com
 data.mistat.xiaomi.com
 api.ad.xiaomi.com
 data.mistat.rus.xiaomi.com
+etrck.estat1.net
+statics.1mv.xyz
+tsm.s3g6.com
+clo.clicks9.com
+awecrptjmp.com
+maroola.aditms.me
+pocketpressk1z.b-cdn.net
+humoralpurline.com
+api.github.com/_private/browser/stats
+collector.github.com
